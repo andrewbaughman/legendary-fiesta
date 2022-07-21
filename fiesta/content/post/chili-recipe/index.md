@@ -1,8 +1,18 @@
----
-title: "Chili Recipe"
-date: 2022-07-20T11:33:58-04:00
-draft: true
----
++++
+author = "Andrew Baughman"
+title = "Chili Recipe"
+date = "2022-07-20"
+description = "A great recipe for chili"
+tags = [
+    "food",
+    "recipe",
+]
+categories = [
+    "Food"
+]
+draft = true
+image = ""
++++
 
 # Add to this post:
 * Pictures

@@ -12,6 +12,11 @@ menu:
         weight: -90
         params:
             icon: user
+links:
+  - title: GitHub
+    description: The place where code goes
+    website: https://github.com/andrewbaughman
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 ---
 
 My name is Andrew Baughman. Whenever I introduce myself, I try to keep it to specifically that. People usually end up choosing to call me either Andrew or "Boffman" or sometimes a mix of both. I like either one, though "Boffman" is pretty fun if it comes from the right people. 

@@ -1,30 +1,41 @@
----
-title: "Job Hunting Notes"
-date: 2022-07-20T11:49:22-04:00
-draft: true
----
++++
+author = "Andrew Baughman"
+title = "Job Hunting Notes"
+date = "2022-07-20"
+description = "Some helpful notes from when I was interviewing for jobs"
+tags = [
+    "jobs",
+    "resume",
+    "mindset",
+    "books",
+]
+categories = [
+    "Career", "Reading"
+]
+draft = true
++++
 
 I recently started a new job. Here are the notes I developed as I was going through the job hunting process.
 
 This is just what I’ve learned, so judge it all for yourself.
 
-**Your attitude determines your altitude.**
+*Your attitude determines your altitude.*
 
 ## Mindset
 
-Mindset is the most important thing when looking for a job.
+Mindset is the most important thing when looking for a job. If you have the wrong mindset, you could find yourself at the wrong job.
 
 - Don’t live in fear. You are valued by God, so live in trust. 
 - Don’t wait for escape to paradise. Work on making paradise where you are now.
-- Friends are on of your greatest assets. Tell them stuff. 
-- The more you know yourself, the more likely you’ll be able to make choices that put you where you want to be with you who want to be with doing what you want to do.
+- Friends are on of your greatest assets. Talk to them. Tell them stuff.
+- The more you know yourself, the more likely you’ll be able to make choices that put you **where you want to be** with **you who want to be with** doing **what you want to do**.
 - Don’t miss opportunities when they present themselves. Leap on them, but only if you trust them.
 
 ## Search Notes
 
 Here is a summary of the notes I used for my search.
 
-- Be Prepared.
+- Be Prepared. Always come prepared.
 - Positivity is ideal. Humility and honesty are great also.
 - Keep a list of companies you’re specially interested in.
 - Know what you’re looking for. Define it clearly.
@@ -32,7 +43,7 @@ Here is a summary of the notes I used for my search.
     - Don’t feel bad about putting a small innocuous funny on your resume. I accidentally did this and got asked about it in my interview.
 - Write a note answering questions you might be asked. Revise as needed.
 - Write a note of questions to ask at the interview, or at all interviews. Probably ask between 2 and 3 questions. I once asked like 5 or 6 questions and it sucked.
-- Learn what Agile is. Learn what REST is, learn what APIs are. Vagueness is your enemy. Be unsatisfied with vague analogous answers. This might be a more personal thing, but I don’t like buzzwords. Buzzwords can be helpful to know (only if you know what they mean), but they are also stupid and mean nothing. Just describe what it is. Use your words. It’s why you learned English.
+- Learn what things are. Software developers tend to use a lot of concepts. Vagueness is your enemy. Be unsatisfied with vague analogous explanations. Buzzwords are dumb. Buzzwords can be helpful to know (only if you know what they mean), but they are also stupid and mean nothing. Just describe what it is. Use your words. It’s why you learned English.
 - It hasn’t come in handy recently, but sometimes it’s good to distinguish yourself from other people by emailing or calling the company directly. 
 
 ## Interviews
@@ -85,15 +96,15 @@ With questions I ask them, I’m more concerned with knowing if I’d like worki
 
 Reading is the best way to keep your mind growing. Read things that apply to your life, things that challenge you, things that help you.
 
-* [The Ideal Team Player](https://web.archive.org/web/20220720155617/https://www.goodreads.com/book/show/28930640-the-ideal-team-player)
+* [The Ideal Team Player](https://web.archive.org/web/20220720155617/https://www.goodreads.com/book/show/28930640-the-ideal-team-player) by Patrick Lencioni
     - Humble (talk to people below you, the receptionist, the janitor)
     - Hungry (seek to do better than you did yesterday)
     - Smart (street smarts, not IQ)
 
-* [Clean Code](https://web.archive.org/web/20220720172816/https://www.goodreads.com/book/show/3735293-clean-code)
+* [Clean Code](https://web.archive.org/web/20220720172816/https://www.goodreads.com/book/show/3735293-clean-code) by Robert C. Martin
     - Words mean things. Ambiguity is your enemy.
     - Good code is readable code.
-* [The Compound Effect](https://web.archive.org/web/20220720172844/https://www.goodreads.com/en/book/show/9420697-the-compound-effect)
+* [The Compound Effect](https://web.archive.org/web/20220720172844/https://www.goodreads.com/en/book/show/9420697-the-compound-effect) by Darren Hardy
     - Your attitude determines your altitude.
     - Appreciation is far more valuable than criticism.
     - Avoid thinking about negative things as much as you can. Find ways to spin things into positives.
