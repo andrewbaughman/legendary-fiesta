@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Ender's Ansible
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Nothing goes over my head. My reflexes are too fast. I would catch it.
         avatar:
             enabled: true
             local: true
