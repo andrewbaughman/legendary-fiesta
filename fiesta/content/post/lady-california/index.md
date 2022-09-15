@@ -1,8 +1,8 @@
 +++
 author = "Andrew Baughman"
-title = "Leaving California"
+title = "Lady California"
 date = "2022-08-16"
-description = "Will we be seduced by Hotel California?"
+description = "Will we be seduced by Lady California?"
 tags = [
     "biblical themes",
     "music"
@@ -63,6 +63,7 @@ They're likely doing things they shouldn't be doing. ("Bring your alibis")
 And if you weren't convinced yet, it keeps coming.
 
 > Mirrors on the ceiling
+>
 > The pink champagne on ice...
 
 That's not the last example of extravagance, but it's enough. This is of course a set up for what comes next.
@@ -70,8 +71,11 @@ That's not the last example of extravagance, but it's enough. This is of course 
 ## Vanity
 
 > And in the master's chambers
+>
 > They gathered for the feast
+>
 > They stab it with their steely knives
+>
 > But they just can't kill the beast
 
 In the last stanza featuring the other hotel guests, a major point of the song comes to full revelation. The lavish life in the hotel cannot satisfy its guests. While they aggressively attack their feast, stabbing it with steely knives, they can never kill it and eat it. Proverbs makes a similar point. "Death and destruction are never satisfied, and neither are human eyes" (Proverbs 27:20). 
@@ -121,15 +125,22 @@ You know the rest of the story, but there are more connections with Proverbs and
 
 Proverbs 7:26-27 
 > Many are the victims she has brought down;
+>
 > her slain are a mighty throng.
+>
 > Her house is a highway to the grave,
+>
 > leading down to the chambers of death.
 
 Proverbs 9:16-18
 > ...To those who have no sense she says,
+>
 > 'Stolen water is sweet;
+>
 > food eaten in secret is delicious!'
+>
 > But little do they know that the dead are there,
+>
 > that her guests are deep in the realm of the dead.
 
 This lady Folly who promised pleasure, but delivers death.
@@ -139,12 +150,6 @@ Something similar happens in the Garden of Eden story when Adam and Eve are bein
 In a moment of weakness, the two foundational human beings are deceived satisfying themselves by their own actions rather than trusting in God's provision. In the end, they are not satisfied. God ends up giving them coverings, but they cannot go back to the garden. They cannot find the passage back to the place they were before. 
 
 
-
-
-
-
-
 Some links to resources I found helpful:
-- the commentary
-- the lyrics
-
+- https://www.azlyrics.com/lyrics/eagles/hotelcalifornia.html
+- https://web.archive.org/web/20220816135654/https://www.songmeaningsandfacts.com/meaning-of-hotel-california-by-the-eagles/
