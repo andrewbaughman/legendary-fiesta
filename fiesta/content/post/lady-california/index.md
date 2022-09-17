@@ -1,7 +1,7 @@
 +++
 author = "Andrew Baughman"
 title = "Lady California"
-date = "2022-08-16"
+date = "2022-09-17"
 description = "Will we be seduced by Lady California?"
 tags = [
     "biblical themes",
